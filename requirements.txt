@@ -3,6 +3,4 @@ uvicorn
 python-multipart
 pillow
 numpy
-
-# TensorFlow CPU version compatible with Python 3.10
-tensorflow-cpu==2.9.0
+tensorflow-cpu==2.12.0
